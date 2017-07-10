@@ -29,7 +29,7 @@ function Mostrar()
 
 			min=numero;
 }
-respuesta=confirm("quieres continuar");	} 
+respuesta=confirm("quieres continuar");	} //fin while
 
 
 document.getElementById("maximo").value=max;
